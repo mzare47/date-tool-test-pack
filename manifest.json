@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packageVersion": "2026.05-test1",
+  "minSupportedAppDataSchema": 1,
+  "files": {
+    "occasionCatalog": {
+      "path": "occasion_catalog.json"
+    },
+    "schoolHolidays": {
+      "path": "school_holidays.json"
+    }
+  }
+}
